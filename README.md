@@ -1,8 +1,8 @@
 # EUTERPE
 
 This is an automatic audio-to-audio karaoke generation system.
-It converts an ordinary music signal into a karaoke (vocal-off) in real time.
-it can also convert the key of the song.
+It converts an ordinary music signal into a karaoke in realtime.
+It can also convert the key of the song.
 
 For technical details, see the literatures below, especially the latest one [1].
 
